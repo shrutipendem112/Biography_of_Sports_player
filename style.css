@@ -1,0 +1,42 @@
+body{
+    background-color: #ffffe0;
+}
+.name-1{
+    color: #0a1172;
+    font-size: 29px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+.img-1{
+    border: 3px solid black;
+    border-radius: 300px;
+}
+h4{
+    color: #0a1172;
+    font-family: "Poppins";
+    font-size: medium;
+}
+.biodata{
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 23px;
+    padding: 18px;
+}
+.personal-info{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+.asian-games-heading{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
